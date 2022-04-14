@@ -8,7 +8,8 @@ public class SampleGit {
 		
 		System.out.println("Hello...");
 		
+		System.out.println("Day 1 Coding");
 		
-		
+		System.out.println("Day 2 Coding");
 	}
 }
