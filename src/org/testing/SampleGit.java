@@ -11,5 +11,11 @@ public class SampleGit {
 		System.out.println("Day 1 Coding");
 		
 		System.out.println("Day 2 Coding");
+		
+		System.out.println("Day 3 Coding");
+		
+		System.out.println("Day 4 Coding");
+
+		
 	}
 }
